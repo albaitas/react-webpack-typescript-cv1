@@ -42,7 +42,7 @@ Runs the webpack-dev-server in the development mode:
 
 **`npm start`**
 
-Build files to /build folder in the development mode:
+Build files to /dist folder in the development mode:
 
 **`npm run dev`**
 
@@ -54,6 +54,6 @@ Try to fix many problems in /src folder:
 
 **`npm run linting`**
 
-Build files to /build folder in the production mode:
+Build files to /dist folder in the production mode:
 
 **`npm run dev`**
